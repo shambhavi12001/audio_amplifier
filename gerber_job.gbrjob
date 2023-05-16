@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-12-11T15:29:51Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Project"
+        },
+        "Owner": "Shambhavi Singh <shambhavisingh@arizona.edu>",
+        "Size": {
+            "X": 63.5,
+            "Y": 63.5
+        }
+    }
+}
